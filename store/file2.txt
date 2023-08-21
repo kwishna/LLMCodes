@@ -1,0 +1,2 @@
+We click on Create new endpoint, choose a model repository (eg name of the model), endpoint name (this can be anything), and select a cloud environment.
+Before moving on it is very important that we set the Task to Sentence Embeddings (found within the Advanced configuration settings).

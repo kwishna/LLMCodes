@@ -1,0 +1,23 @@
+{
+  "name": "randomaiprojectsandcodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js-google-collab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwishna/LLMCodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwishna/LLMCodes/issues"
+  },
+  "homepage": "https://github.com/kwishna/LLMCodes#readme",
+  "dependencies": {
+    "pdfkit": "^0.13.0"
+  }
+}

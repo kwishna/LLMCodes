@@ -1,0 +1,3 @@
+Hugging Face Endpoints allows access to straightforward model inference.
+Coupled with Pinecone we can generate and index high-quality vector embeddings with ease.
+Let's get started by initializing an Endpoint for generating vector embeddings.

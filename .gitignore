@@ -1,2 +1,4 @@
 .idea/
 .env
+node_modules/
+prompt_engineering_coursera.pdf
